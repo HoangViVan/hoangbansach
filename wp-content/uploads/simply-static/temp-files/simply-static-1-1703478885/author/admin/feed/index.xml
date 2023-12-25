@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>admin &#8211; Hoang-Ban-Sach</title>
+	<atom:link href="https://hoangvivan.github.io/hoangbansach/author/admin/feed" rel="self" type="application/rss+xml" />
+	<link>https://hoangvivan.github.io/hoangbansach</link>
+	<description></description>
+	<lastBuildDate>Sat, 16 Dec 2023 07:10:12 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Tất cả sản phẩm</title>
+		<link>https://hoangvivan.github.io/hoangbansach/tat-ca-san-pham.html</link>
+					<comments>https://hoangvivan.github.io/hoangbansach/tat-ca-san-pham.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 16 Dec 2023 07:10:07 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://hoangvivan.github.io/hoangbansach/?p=122</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div data-block-name="woocommerce/all-products" data-columns="3" data-rows="3" data-align-buttons="false" data-content-visibility="{&quot;orderBy&quot;:true}" data-orderby="date" data-layout-config="[[&quot;woocommerce\/product-image&quot;,{&quot;imageSizing&quot;:&quot;thumbnail&quot;}],[&quot;woocommerce\/product-title&quot;],[&quot;woocommerce\/product-price&quot;],[&quot;woocommerce\/product-rating&quot;],[&quot;woocommerce\/product-button&quot;]]" class="wp-block-woocommerce-all-products wc-block-all-products" data-attributes="{&quot;alignButtons&quot;:false,&quot;columns&quot;:3,&quot;contentVisibility&quot;:{&quot;orderBy&quot;:true},&quot;isPreview&quot;:false,&quot;layoutConfig&quot;:[[&quot;woocommerce/product-image&quot;,{&quot;imageSizing&quot;:&quot;thumbnail&quot;}],[&quot;woocommerce/product-title&quot;],[&quot;woocommerce/product-price&quot;],[&quot;woocommerce/product-rating&quot;],[&quot;woocommerce/product-button&quot;]],&quot;orderby&quot;:&quot;date&quot;,&quot;rows&quot;:3}"></div>]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangvivan.github.io/hoangbansach/tat-ca-san-pham.html/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hello world!</title>
+		<link>https://hoangvivan.github.io/hoangbansach/hello-world.html</link>
+					<comments>https://hoangvivan.github.io/hoangbansach/hello-world.html#comments</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 10 Dec 2023 01:16:00 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://localhost/webbansach/?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://hoangvivan.github.io/hoangbansach/hello-world.html/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
